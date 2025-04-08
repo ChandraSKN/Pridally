@@ -1,0 +1,48 @@
+body, html {
+    height: 100%;
+    background-color: #f5f6f8;
+  }
+  
+  .sign-in-container {
+    height: 100vh;
+  }
+  
+  .sign-in-card {
+    width: 360px;
+    padding: 20px;
+    border-radius: 16px;
+    background-color: #fff;
+  }
+  
+  .sign-in-card h2 {
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+  
+  .form-control {
+    border-radius: 8px;
+    height: 45px;
+  }
+  
+  .sign-in-btn {
+    margin-top: 10px;
+    background-color: #136bff;
+    border: none;
+    padding: 10px 0;
+    font-size: 16px;
+    border-radius: 8px;
+  }
+  
+  .sign-in-btn:hover {
+    background-color: #005ae0;
+  }
+  
+  .link {
+    color: #136bff;
+    text-decoration: none;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }
+      

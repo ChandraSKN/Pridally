@@ -1,0 +1,15 @@
+.home .hero-section {
+    height: 80vh;
+    background-image: url('https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=1200&h=800&fit=crop');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.6);
+  }
+  
+  .about-section {
+    font-size: 1.1rem;
+    color: #333;
+  }
+  
+  
