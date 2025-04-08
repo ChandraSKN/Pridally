@@ -13,7 +13,7 @@ function AppNavbar() {
         <Navbar.Collapse id="navbar-nav">
           <Nav className="ms-auto">
             <Nav.Link as={Link} to="/">Home</Nav.Link>
-            <Nav.Link as={Link} to="/library">Library</Nav.Link>
+            <Nav.Link as={Link} to="/we-offer">Features</Nav.Link>
             <Nav.Link as={Link} to="/signin">Sign In</Nav.Link>
             <Button as={Link} to="/signup" variant="primary" className="ms-3">Sign Up</Button>
           </Nav>

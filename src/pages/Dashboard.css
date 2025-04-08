@@ -1,0 +1,38 @@
+.dashboard-container {
+    background-color: #f0f4f9;
+    min-height: 100vh;
+  }
+  
+  .dashboard-title {
+    font-weight: 700;
+    color: #333;
+  }
+  
+  .dashboard-card {
+    border-radius: 14px;
+  }
+  
+  .dashboard-card .card-title {
+    font-weight: 600;
+    color: #444;
+  }
+  
+  .status-badge {
+    border-radius: 10px;
+    padding: 5px 10px;
+    color: #fff;
+    font-size: 0.8rem;
+  }
+  
+  .status-badge.in-treatment {
+    background-color: #4a90e2;
+  }
+  
+  .status-badge.discharged {
+    background-color: #50e3c2;
+  }
+  
+  .status-badge.critical {
+    background-color: #f5a623;
+  }
+  
