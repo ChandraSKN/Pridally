@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pridally/static/css/main.b02ff68c.css",
+    "main.js": "/Pridally/static/js/main.a06264f8.js",
+    "static/js/453.f2f94fdc.chunk.js": "/Pridally/static/js/453.f2f94fdc.chunk.js",
+    "index.html": "/Pridally/index.html",
+    "main.b02ff68c.css.map": "/Pridally/static/css/main.b02ff68c.css.map",
+    "main.a06264f8.js.map": "/Pridally/static/js/main.a06264f8.js.map",
+    "453.f2f94fdc.chunk.js.map": "/Pridally/static/js/453.f2f94fdc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b02ff68c.css",
+    "static/js/main.a06264f8.js"
+  ]
+}
