@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Pridally/static/css/main.b02ff68c.css",
-    "main.js": "/Pridally/static/js/main.a06264f8.js",
-    "static/js/453.f2f94fdc.chunk.js": "/Pridally/static/js/453.f2f94fdc.chunk.js",
+    "main.css": "/Pridally/static/css/main.fd6c27e6.css",
+    "main.js": "/Pridally/static/js/main.759ebb95.js",
+    "static/js/453.d0793465.chunk.js": "/Pridally/static/js/453.d0793465.chunk.js",
     "index.html": "/Pridally/index.html",
-    "main.b02ff68c.css.map": "/Pridally/static/css/main.b02ff68c.css.map",
-    "main.a06264f8.js.map": "/Pridally/static/js/main.a06264f8.js.map",
-    "453.f2f94fdc.chunk.js.map": "/Pridally/static/js/453.f2f94fdc.chunk.js.map"
+    "main.fd6c27e6.css.map": "/Pridally/static/css/main.fd6c27e6.css.map",
+    "main.759ebb95.js.map": "/Pridally/static/js/main.759ebb95.js.map",
+    "453.d0793465.chunk.js.map": "/Pridally/static/js/453.d0793465.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b02ff68c.css",
-    "static/js/main.a06264f8.js"
+    "static/css/main.fd6c27e6.css",
+    "static/js/main.759ebb95.js"
   ]
 }
