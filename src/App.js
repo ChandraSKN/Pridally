@@ -13,8 +13,9 @@ import Dashboard from './pages/Dashboard';
 function App() {
   return (
     <Router>
+      
       <div className="App">
-        <AppNavbar/>
+      <AppNavbar/>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/signin" element={<SignIn />} />

@@ -1,0 +1,38 @@
+.custom-navbar {
+    background: rgba(220, 150, 150, 0.9); /* Semi-transparent background */
+    backdrop-filter: blur(5px);            /* Blur effect */
+    padding: 1rem 1;                    /* Further reduce vertical padding */
+    min-height: 25px;                      /* Set an explicit minimum height */                  /* Curved edges */
+    margin: 0 0rem;                        /* Margin for visible curves */
+  }
+  
+  /* Adjust the navbar brand */
+  .custom-navbar .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-top: 0;
+    padding-bottom: 0;
+    line-height: 30px; /* Make the brand align with the navbar height */
+  }
+  
+  /* Adjust the navigation links */
+  .custom-navbar .nav-link {
+    font-size: 1rem;
+    margin-right: 1rem;
+    padding-top: 0;
+    padding-bottom: 0;
+    line-height: 40px; /* Align the links with the navbar height */
+    color: #333 !important;
+    transition: color 0.3s ease;
+  }
+  .custom-navbar .nav-link:hover {
+    color: #007bff !important;
+  }
+  
+  /* Adjust the Navbar toggler (for responsiveness) */
+  .custom-navbar .navbar-toggler {
+    padding: 0.25rem 0.5rem;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
