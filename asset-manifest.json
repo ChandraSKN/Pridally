@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Pridally/static/css/main.d7084981.css",
-    "main.js": "/Pridally/static/js/main.907f5247.js",
+    "main.js": "/Pridally/static/js/main.7ee4d40d.js",
     "static/js/453.d0793465.chunk.js": "/Pridally/static/js/453.d0793465.chunk.js",
     "index.html": "/Pridally/index.html",
     "main.d7084981.css.map": "/Pridally/static/css/main.d7084981.css.map",
-    "main.907f5247.js.map": "/Pridally/static/js/main.907f5247.js.map",
+    "main.7ee4d40d.js.map": "/Pridally/static/js/main.7ee4d40d.js.map",
     "453.d0793465.chunk.js.map": "/Pridally/static/js/453.d0793465.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7084981.css",
-    "static/js/main.907f5247.js"
+    "static/js/main.7ee4d40d.js"
   ]
 }
